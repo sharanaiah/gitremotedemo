@@ -9,3 +9,4 @@ updated from local
 git pdf
 git fetch and merge
 git remote
+i did now changes
