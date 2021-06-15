@@ -7,3 +7,4 @@ push from local to main
 updated here 
 updated from local
 git pdf
+git fetch and merge
