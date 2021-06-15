@@ -8,3 +8,4 @@ updated here
 updated from local
 git pdf
 git fetch and merge
+git remote
